@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=428
+
+smlisp.vim provides syntax highlighting and paranthesis/bracket matching for the Small Lisp languague. The main web site is http://www.cs.sfu.ca/~cameron/smlisp/
+(which provides the original MSDOS binaries).
+
+For the Linux distribution check the primary location
+http://www.uv.es/~tung/smlisp/.
